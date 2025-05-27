@@ -5,18 +5,32 @@ The objective of this project is to build a classification model that can predic
 
 # Dataset
 The project utilizes a dataset named loan_data.csv. This dataset contains various features related to loan applicants and their loan details, including:
+
 Loan_ID: Unique Loan ID
+
 Gender: Male/Female
+
 Married: Applicant married (Yes/No)
+
 Dependents: Number of dependents
+
 Education: Applicant Education (Graduate/Not Graduate)
+
 Self_Employed: Self-employed (Yes/No)
+
 ApplicantIncome: Applicant income
+
 CoapplicantIncome: Co-applicant income
+
 LoanAmount: Loan amount in thousands
+
+
 Loan_Amount_Term: Term of loan in months
+
 Credit_History: Credit history meets guidelines (1/0)
+
 Property_Area: Urban/Semiurban/Rural
+
 Loan_Status: Loan approved (Y/N) - Target Variable
 
 # Methodology
