@@ -21,6 +21,7 @@ Loan_Status: Loan approved (Y/N) - Target Variable
 
 # Methodology
 The project follows a standard machine learning pipeline:
+  
   1.Data Loading and Initial Inspection
   The dataset is loaded using pandas. Initial steps involve viewing the first few rows (df.head()), checking the dimensions (df.shape), and reviewing data types and non-null counts (df.info()). Missing values are also identified.
   
